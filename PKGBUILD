@@ -1,5 +1,5 @@
 pkgname=workfolio
-pkgver=1.2.3
+pkgver=0.1.54
 pkgrel=1
 pkgdesc="Workfolio desktop application"
 arch=('x86_64')
